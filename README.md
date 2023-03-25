@@ -1,3 +1,3 @@
 # modalWindow
 
-https://codeedocc.github.io/modalWindow/index.html
+Проект: https://codeedocc.github.io/modalWindow/index.html
